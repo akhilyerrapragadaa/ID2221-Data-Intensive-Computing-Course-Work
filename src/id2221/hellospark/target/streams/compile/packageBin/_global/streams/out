@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/nanda/ID2221-lab1-2020/src/id2221/hellospark/target/scala-2.11/hello-spark_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloSpark.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/nanda/ID2221-lab1-2020/src/id2221/hellospark/target/scala-2.11/classes/HelloSpark.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloSpark$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/nanda/ID2221-lab1-2020/src/id2221/hellospark/target/scala-2.11/classes/HelloSpark$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloSpark$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/nanda/ID2221-lab1-2020/src/id2221/hellospark/target/scala-2.11/classes/HelloSpark$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloSpark$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/nanda/ID2221-lab1-2020/src/id2221/hellospark/target/scala-2.11/classes/HelloSpark$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloSpark$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/nanda/ID2221-lab1-2020/src/id2221/hellospark/target/scala-2.11/classes/HelloSpark$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloSpark$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/nanda/ID2221-lab1-2020/src/id2221/hellospark/target/scala-2.11/classes/HelloSpark$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
