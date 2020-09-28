@@ -1,1 +1,0 @@
-["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.11.12":{"hashes":[["/home/nanda/ID2221-lab1-2020/src/id2221/hellospark/HelloSpark.scala","6ec8527a65666d12080ccd24cfd32e89ab6f12f4"]],"lastModifiedTimes":[]}}]
